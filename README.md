@@ -1,6 +1,18 @@
 # pandas-challenge
 
-This repo contains my solution for HW4 - pandas challenge. I chose **Heroes Of Pymoli** fantasy game assignment. 
+This is a mock project that was developed for a fictional independent gaming company where the goal was to analyze the data for their most recent fantasy game **Heroes of Pymoli**.
+
+The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The main goal was to generate a report that breaks down the game's purchasing data into meaningful insights for the following:-
+
+* Total Number of Players
+* Purchasing Analysis
+* Player Gender Demographic
+* Purchasing Analysis by Player Gender
+* Age Demographics of Players
+* Top Spenders among the Players
+* Most _Popular_ and _Profitable_ items
+
+![](/Images/Age_ranges.PNG)
 
 ## What this contains:
 
