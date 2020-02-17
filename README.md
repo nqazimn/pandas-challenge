@@ -12,7 +12,7 @@ The game is free-to-play, but players are encouraged to purchase optional items 
 * Top Spenders among the Players
 * Most _Popular_ and _Profitable_ items
 
-![](/Images/Age_ranges.PNG)
+![gif_image](HeroesOfPymoli/Images/heroes_of_pymoli_results.gif)
 
 ## What this contains:
 
