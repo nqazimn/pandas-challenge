@@ -1,6 +1,9 @@
 # pandas-challenge
 
 This is a mock project that was developed for a fictional independent gaming company where the goal was to analyze the data for their most recent fantasy game **Heroes of Pymoli**.
+<p align="center">
+  <img src="HeroesOfPymoli/Images/heroes_of_pymoli_results.gif">
+</p>
 
 The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. The main goal was to generate a report that breaks down the game's purchasing data into meaningful insights for the following:-
 
@@ -11,8 +14,6 @@ The game is free-to-play, but players are encouraged to purchase optional items 
 * Age Demographics of Players
 * Top Spenders among the Players
 * Most _Popular_ and _Profitable_ items
-
-![gif_image](HeroesOfPymoli/Images/heroes_of_pymoli_results.gif)
 
 ## What this contains:
 
